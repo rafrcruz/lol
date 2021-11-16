@@ -1,0 +1,6 @@
+scikit-learn
+tox
+tox-conda
+black
+isort
+-e .
